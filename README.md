@@ -1,5 +1,4 @@
 - 👋 Hi, I’m arjun ds
-
 - 👀 A passionate python and Web developer developer 
 - 
 - 🔭 I’m currently working on **Image Recognition**
