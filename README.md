@@ -1,5 +1,5 @@
 - 👋 Hi, I’m arjun ds
-- 👀 A passionate python and Web developer developer 
+- 👀 An aspiring and passionate python developer 
 - 🔭 I’m currently working on **Image Recognition**
 - 🌱 I’m currently learning **Deep Neural Networks**
 - 👯 I’m looking to collaborate on **TensorFlow**
